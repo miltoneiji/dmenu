@@ -2,6 +2,13 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+This repository is a fork of git://git.suckless.org/dmenu
+
+Patches applied
+------------
+- border
+- center
+
 
 Requirements
 ------------
